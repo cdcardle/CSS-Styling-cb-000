@@ -63,6 +63,6 @@ figcaption {
   text-decoration: underline;
 }
 
-#details: a:click {
+#details: a:active {
   color: red;
 }
